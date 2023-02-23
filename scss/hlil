@@ -1,0 +1,306 @@
+<div class="art-timeline-item">
+                        <div class="art-timeline-mark-light"></div>
+                        <div class="art-timeline-mark"></div>
+
+
+                        <div class="art-a art-timeline-content">
+                          <div class="art-card-header">
+                            <div class="art-left-side">
+                              <h5>Google DSC</h5>
+                              <div class="art-el-suptitle mb-15">Creative Lead</div>
+                            </div>
+                            <div class="art-right-side">
+                              <span class="art-date">July 2022 - Current</span>
+                            </div>
+                          </div>
+                          <!-- <p>Placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p> -->
+                        </div>
+                      </div>
+
+                      <div class="art-timeline-item">
+                        <div class="art-timeline-mark-light"></div>
+                        <div class="art-timeline-mark"></div>
+
+
+                        <div class="art-a art-timeline-content">
+                          <div class="art-card-header">
+                            <div class="art-left-side">
+                              <h5>Narsee Monjee Debate Society Club</h5>
+                              <div class="art-el-suptitle mb-15">Graphic Design Head</div>
+                            </div>
+                            <div class="art-right-side">
+                              <span class="art-date">August 2022 - Current</span>
+                            </div>
+                          <!-- </div>
+                          <p>Placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+                        </div> -->
+                      </div>
+
+                      <div class="art-timeline-item">
+                        <div class="art-timeline-mark-light"></div>
+                        <div class="art-timeline-mark"></div>
+
+
+                        <div class="art-a art-timeline-content">
+                          <div class="art-card-header">
+                            <div class="art-left-side">
+                              <h5>Narsee Monjee Model United Nations</h5>
+                              <div class="art-el-suptitle mb-15">Social Media Marketing Director</div>
+                            </div>
+                            <div class="art-right-side">
+                              <span class="art-date">September 2022 - Current</span>
+                            </div>
+                          <!-- </div>
+                          <p>Placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+                        </div> -->
+                      </div>
+
+                      <div class="art-timeline-item">
+                        <div class="art-timeline-mark-light"></div>
+                        <div class="art-timeline-mark"></div>
+
+
+                        <div class="art-a art-timeline-content">
+                          <div class="art-card-header">
+                            <div class="art-left-side">
+                              <h5>Ambiora Tech Fest 2023</h5>
+                              <div class="art-el-suptitle mb-15">Social Media Marketing Convenor</div>
+                            </div>
+                            <div class="art-right-side">
+                              <span class="art-date">November 2022 - Current</span>
+                            </div>
+                          
+                      </div>
+
+
+
+                                    <!-- hard skills -->
+              <div class="art-hard-skills p-30-15">
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Python</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog1"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>MySQL</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog2"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Excel</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog3"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Power BI</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog4"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Google Studio</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Tableau</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>HTML</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>CSS</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>JS</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>React</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Node JS</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Canva</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Adobe Tools</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>VN</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog5"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+              </div>
+              <!-- language skills end -->
+
+
+
+              <!-- knowledge list -->
+              <ul class="art-knowledge-list p-15-0">
+                <!-- list item -->
+                <li>Bootstrap, Tailwind, Express</li>
+                <!-- list item -->
+                <li>Google Colab, Anaconda</li>
+                <!-- list item -->
+                <li>Wordpress, PHP, MongoDB</li>
+                <!-- list item -->
+                <li>GIT knowledge</li>
+              </ul>
+              <!-- knowledge list end -->
